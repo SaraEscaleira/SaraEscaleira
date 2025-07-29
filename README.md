@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Sara Escaleira
 
-I’m an aspiring Game Developer with a strong passion for learning the fundamentals of web development. My long-term goal is to build immersive and engaging video games by combining creativity, logic, and technical skill.
+I’m an aspiring Video Game Developer with a strong passion for learning the fundamentals of web development. My long-term goal is to build immersive and engaging video games by combining creativity, logic, and technical skill.
 
 ## 👀 Interests
 
