@@ -4,7 +4,7 @@ I’m an aspiring Full Stack Developer with a strong passion for learning the fu
 
 ## 👀 Interests
 
-- Full Stack Web Development (Frontend + Backend)
+- Full Stack Web Development
 - Game Development fundamentals
 - Responsive and accessible UI/UX design
 - Learning best practices in clean code and project structure
@@ -13,8 +13,8 @@ I’m an aspiring Full Stack Developer with a strong passion for learning the fu
 ## 🌱 Currently Learning
 
 - HTML5, CSS3, and JavaScript 
-- Building structured, responsive websites
-- Version control using Git and GitHub
+- C#
+- Unreal Engine 5
 
 ## 💞️ Looking to Collaborate On
 
